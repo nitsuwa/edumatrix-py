@@ -1,0 +1,15 @@
+{
+    "app_name": "EduMatrix Enterprise",
+    "version": "2.5.0 Stable",
+    "institution": "College of Information Tech",
+    "security": {
+        "admin_user": "admin",
+        "admin_hash": "admin",
+        "max_attempts": 3
+    },
+    "grading_weights": {
+        "quiz": 0.2,
+        "midterm": 0.4,
+        "final": 0.4
+    }
+}
